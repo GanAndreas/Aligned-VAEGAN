@@ -12,10 +12,10 @@ Download the following folder https://www.dropbox.com/sh/btoc495ytfbnbat/AAAaurk
 
 Package Requirement:
 
-torch==0.4.1
-numpy==1.14.3
-scipy==1.1.0
-scikit_learn==0.20.3
-networkx==1.11
-tensorboardX==1.9
-tensorflow==2.0.0
+- torch==0.4.1
+- numpy==1.14.3
+- scipy==1.1.0
+- scikit_learn==0.20.3
+- networkx==1.11
+- tensorboardX==1.9
+- tensorflow==2.0.0
