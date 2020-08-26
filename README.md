@@ -8,7 +8,7 @@ put the folder in the directory with the other files
 
 ## Dataset
 
-Download the following folder https://www.dropbox.com/sh/btoc495ytfbnbat/AAAaurkoKnnk0uV-swgF-gdSa?dl=0 and put it in this repository. Next to the folder "model", there should be a folder "data".
+Download the following folder https://www.dropbox.com/sh/rf9vlodd49svetp/AAC62VPE-rHgvodQ0bFTopGua?dl=0 and put it in this repository. Next to the folder "model", there should be a folder "data".
 Raw data for:
 1. AWA2 - https://cvml.ist.ac.at/AwA2/
 2. CUB - http://www.vision.caltech.edu/visipedia/CUB-200-2011.html
